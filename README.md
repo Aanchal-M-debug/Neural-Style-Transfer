@@ -37,7 +37,7 @@ https://your-app-link.com
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 ├── train.py / style_transfer.py <br>
 ├── models/<br>
 │ └── vgg.py<br>
@@ -50,9 +50,9 @@ https://your-app-link.com
 
 ---
 
-## ⚙️ Installation & Setup
+## Installation & Setup
 
-### 1️⃣ Clone the Repository
+### Clone the Repository
 ```bash
 git clone https://github.com/your-username/neural-style-transfer.git
 cd neural-style-transfer
@@ -90,7 +90,8 @@ images/output/
 ### Stylized Output
 ![Stylized Output](Result.png)
 
+---
 
-### Results
+## Results
 
 The model successfully produces stylized images that retain the structural content of the original image while adopting textures, colors, and patterns from the style image.
