@@ -82,13 +82,13 @@ images/output/
 ##  Sample Results
 
 ### Content Image
-![Content Image]("C:\Users\aanch\OneDrive\Pictures\Screenshot (283).png")
+![Content Image](Content.png)
 
 ### Style Image
-![Style Image](assets/style.jpg)
+![Style Image](Style.png)
 
 ### Stylized Output
-![Stylized Output]("C:\Users\aanch\OneDrive\Pictures\Screenshot (2843).png")
+![Stylized Output]("Result.png")
 
 
 ### Results
