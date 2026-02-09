@@ -85,7 +85,7 @@ images/output/
 ![Content Image](Content.png)
 
 ### Style Image
-![Style Image](Style.png)
+![Style Image](Style.jpg)
 
 ### Stylized Output
 ![Stylized Output]("Result.png")
