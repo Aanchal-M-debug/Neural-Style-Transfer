@@ -78,6 +78,7 @@ python train.py
 ```bash
 images/output/
 ```
+---
 
 ##  Sample Results
 
